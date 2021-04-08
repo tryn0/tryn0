@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![tryn0' github stats](https://github-readme-stats.vercel.app/api?username=tryn0&count_private=true&show_icons=true)
+
 <!--
 **tryn0/tryn0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
